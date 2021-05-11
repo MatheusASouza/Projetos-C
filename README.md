@@ -1,7 +1,7 @@
-> <h1> Projetos C
+> <h1> Projetos C.
 
-# Treinando laço de repetição FOR em linguagem C
+# Repositório destinado a linguagem C.
 
-![Tabuada](https://github.com/MatheusASouza/Tabuada-C/blob/main/Tabuada.img.png)
+![Tabuada](https://github.com/MatheusASouza/Projetos-C/blob/main/C%20(1).gif)
 
-### ✌️ Projetos para treinamento da linguagem C
+### ✌️ Projetos para treinamento da linguagem C.
