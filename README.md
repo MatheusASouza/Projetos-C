@@ -1,4 +1,4 @@
-> <h1> Tabuada-C
+> <h1> Projetos C
 
 # Treinando laço de repetição FOR em linguagem C
 
