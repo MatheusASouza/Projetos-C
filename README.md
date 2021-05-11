@@ -2,4 +2,4 @@
 
 # Treinando laço de repetição FOR em linguagem C
 
-![Tabuada]()
+![Tabuada](https://github.com/MatheusASouza/Tabuada-C/blob/main/Tabuada.png)
